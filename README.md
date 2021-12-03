@@ -8,6 +8,8 @@
 
 <!-- /statamic:hide -->
 
+> **⚠️ Do Not Use:** This addon has been superseded by [Bard Texstyle](https://statamic.com/addons/jacksleight/bard-texstyle), which offers everything this does and more. If you're using this already [check the migration guide](https://github.com/jacksleight/statamic-bard-texstyle/blob/main/MIGRATION.md), I’ve made it as simple as I could.
+
 This Statamic addon gives you the ability to add custom paragraph styles to the Bard fieldtype.
 
 ## Installation
