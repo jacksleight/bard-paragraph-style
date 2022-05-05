@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.3 (2022-11-05)
+
+- *Important:* This addon has been superseded by [Bard Texstyle](https://statamic.com/addons/jacksleight/bard-texstyle)
+- Update Statamic version requirement
+
 ## 1.2.2 (2021-10-18)
 
 - [fix] Fix compatibility with the newly renamed Bard Mutator
